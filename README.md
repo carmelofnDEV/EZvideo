@@ -4,19 +4,19 @@
 
 
 
-Un proyecto basado en la librería PYTUBE(https://pytube.io/) con el fin de aprender.
+Un proyecto basado en la librería PYTUBE(https://pytube.io/) con el fin de aprender. \r\n
 
-PARA INSTALAR EN TU LINUX :)
-(sin github)
-Descargas el repositorio
-cd EZvideo
-pip install .
+PARA INSTALAR EN TU LINUX :) \r\n
+(sin github) \r\n
+Descargas el repositorio \r\n
+cd EZvideo \r\n
+pip install . \r\n
 
-(con github)
-pip install git+https://github.com/carmelofnDEV/EZvideo
+(con github) \r\n
+pip install git+https://github.com/carmelofnDEV/EZvideo \r\n
 
 
-proximamente dockerizado...
+proximamente dockerizado... \r\n
 
 
 
