@@ -6,7 +6,8 @@
 
 Un proyecto basado en la librería PYTUBE(https://pytube.io/) con el fin de aprender. \r\n
 
-PARA INSTALAR EN TU LINUX :) \r\n
+PARA INSTALAR EN TU LINUX :) 
+
 (sin github):
 Descargas el repositorio --->
 cd EZvideo ---> 
