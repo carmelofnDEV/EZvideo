@@ -8,7 +8,7 @@ Un proyecto basado en la librería PYTUBE(https://pytube.io/) con el fin de apre
 
 PARA INSTALAR EN TU LINUX :) 
 
-(sin github):
+(sin github) --->
 Descargas el repositorio --->
 cd EZvideo ---> 
 pip install . 
